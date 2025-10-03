@@ -30,8 +30,6 @@ This project sets up a complete CI/CD pipeline where:
 ### Console Output
 ![Console Output](https://github.com/CSD-FX/Task-8_Elevate_Labs/raw/master/images/Screenshot%202025-10-03%20at%2011.57.48%E2%80%AFAM.png)
 
-### EC2 Configuration
-![EC2 Setup](https://github.com/CSD-FX/Task-8_Elevate_Labs/raw/master/images/Screenshot%202025-10-03%20at%2012.30.51%20PM.png)
 
 ## 🚀 The Outcome
 
