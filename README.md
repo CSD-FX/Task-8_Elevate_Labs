@@ -22,12 +22,12 @@ This project sets up a complete CI/CD pipeline where:
 4. **Established automation** - Every time we trigger the build, Jenkins automatically compiles, tests, and packages our application
 5. **Verified success** - Confirmed the pipeline works by seeing "Hello, Jenkins + Maven!" output and BUILD SUCCESS status
 
-## 📸 Project Screenshots
+## Project Screenshots
 
 ### Jenkins Build Success
 ![Jenkins Build](https://github.com/CSD-FX/Task-8_Elevate_Labs/raw/master/images/Screenshot%202025-10-03%20at%2011.51.11%20AM.png)
 
-### Console Output
+### Console Output  
 ![Console Output](https://github.com/CSD-FX/Task-8_Elevate_Labs/raw/master/images/Screenshot%202025-10-03%20at%2011.51.48%20AM.png)
 
 ### EC2 Configuration
