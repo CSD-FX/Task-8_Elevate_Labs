@@ -21,3 +21,9 @@
  * Established automation - Every time we trigger the build, Jenkins automatically compiles, tests, and packages our application
  * Verified success - Confirmed the pipeline works by seeing "Hello, Jenkins + Maven!" output and BUILD SUCCESS status
  * The Outcome: We now have a working CI/CD pipeline that can automatically build our Java application with a single click, demonstrating the fundamental concept of continuous integration where code changes can be automatically tested and packaged.
+
+### Jenkins Configuration
+![Jenkins Setup](https://github.com/CSD-FX/Task-8_Elevate_Labs/raw/master/images/Screenshot%202025-10-03%20at%2011.51.11%20AM.png)
+
+### Build Success
+![Build Output](https://github.com/CSD-FX/Task-8_Elevate_Labs/raw/master/images/Screenshot%202025-10-03%20at%2011.51.48%20AM.png)
